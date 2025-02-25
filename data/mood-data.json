@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "name": "John Doe",
+      "entries": [
+        {
+          "date": "2024-02-23",
+          "moods": [{ "time": "09:00", "value": 2 }, { "time": "14:00", "value": 1 }, { "time": "20:00", "value": 3 }],
+          "energies": [
+            { "time": "09:00", "value": 1 },
+            { "time": "14:00", "value": 2 },
+            { "time": "20:00", "value": 0 }
+          ],
+          "activities": {
+            "Out of Bed": "07:30",
+            "First Contact": "08:15",
+            "Start Work": "09:00",
+            "Dinner": "19:00",
+            "To Bed": "23:00"
+          },
+          "notes": "Felt pretty good today. Had a productive work session in the afternoon."
+        }
+      ],
+      "habits": [
+        { "id": 1, "name": "Exercise", "emoji": "🏃‍♂️" },
+        { "id": 2, "name": "Hydrate", "emoji": "💧" },
+        { "id": 3, "name": "Read", "emoji": "📚" },
+        { "id": 4, "name": "Meditate", "emoji": "🧘‍♀️" },
+        { "id": 5, "name": "Eat Healthy", "emoji": "🥗" }
+      ]
+    }
+  ]
+}
+
