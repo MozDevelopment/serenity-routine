@@ -1,0 +1,13 @@
+{
+  "welcome": "Bem-vindo ao Serenity Routine",
+  "description": "Seu Rastreador de Humor para Terapia de Ritmo Social (TRS)",
+  "enterDashboard": "Entrar no Painel",
+  "mood": "Humor",
+  "energy": "Energia",
+  "activities": "Atividades",
+  "settings": "Configurações",
+  "addActivity": "Adicionar Atividade",
+  "save": "Salvar",
+  "generateReport": "Gerar Relatório PDF"
+}
+

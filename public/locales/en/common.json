@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome to Serenity Routine",
+  "description": "Your Social Rhythm Therapy (SRT) Mood Tracker",
+  "enterDashboard": "Enter Dashboard",
+  "mood": "Mood",
+  "energy": "Energy",
+  "activities": "Activities",
+  "settings": "Settings",
+  "addActivity": "Add Activity",
+  "save": "Save",
+  "generateReport": "Generate PDF Report"
+}
+
