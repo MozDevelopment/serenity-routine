@@ -9,7 +9,19 @@ const compat = new FlatCompat({
   baseDirectory: __dirname,
 });
 
+// Add language and sourceType configuration
 const eslintConfig = [
+  {
+    languageOptions: {
+      ecmaVersion: 2022,
+      sourceType: "module",
+      parserOptions: {
+        ecmaFeatures: {
+          jsx: true,
+        },
+      },
+    },
+  },
   ...compat.extends("next/core-web-vitals", "next/typescript"),
 ];
 
